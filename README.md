@@ -44,11 +44,11 @@ start.bat
 2. Run the `start.bat` file for a one-click start.
 3. You can interact with multiple AI models simultaneously in one window.
 
-## 📷 Screenshot:
+## 📺 Youtube:
 - **Lang-Eng:**
-![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)
+![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)](https://youtu.be/5O0pvM_CDC4)
 - **Lang-Vi:**
-![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)
+![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)](https://youtu.be/5O0pvM_CDC4)
 
 
 ## 🔧 System Requirements:
