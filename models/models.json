@@ -1,0 +1,134 @@
+{
+    "Meta-Llama-3": {
+        "path": "Meta-Llama-3.1-8B-Instruct-128k-Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|start_header_id|>user<|end_header_id|>\n\n%1<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n%2",
+        "system": "<|start_header_id|>system<|end_header_id|>\nCutting Knowledge Date: December 2023\n\nYou are a helpful assistant.<|eot_id|>"
+    },
+    "Meta-Llama-3-8B-Instruct": {
+        "path": "Meta-Llama-3-8B-Instruct.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|start_header_id|>user<|end_header_id|>\n\n%1<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n%2<|eot_id|>",
+        "system": ""
+    },
+    "Nous-Hermes-2-Mistral-7B-DPO": {
+        "path": "Nous-Hermes-2-Mistral-7B-DPO.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|im_start|>user\n%1<|im_end|>\n<|im_start|>assistant\n%2<|im_end|>\n",
+        "system": ""
+    },
+    "mistral-7b-instruct": {
+        "path": "mistral-7b-instruct-v0.1.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "[INST] %1 [/INST]",
+        "system": ""
+    },
+    "mistral-7b-openorca": {
+        "path": "mistral-7b-openorca.gguf2.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|im_start|>user\n%1<|im_end|>\n<|im_start|>assistant\n%2<|im_end|>\n",
+        "system": "<|im_start|>system\nYou are MistralOrca, a large language model trained by Alignment Lab AI.\n<|im_end|>\n"
+    },
+    "gpt4all-falcon": {
+        "path": "gpt4all-falcon-newbpe-q4_0.gguf",
+        "ram": "8",
+        "prompt": "### Instruction:\n%1\n\n### Response:\n",
+        "system": ""
+    },
+    "orca-2-7b": {
+        "path": "orca-2-7b.Q4_0.gguf",
+        "ram": "8",
+        "prompt": null,
+        "system": ""
+    },
+    "orca-2-13b": {
+        "path": "orca-2-13b.Q4_0.gguf",
+        "ram": "16",
+        "prompt": null,
+        "system": ""
+    },
+    "wizardlm-13b": {
+        "path": "wizardlm-13b-v1.2.Q4_0.gguf",
+        "ram": "16",
+        "prompt": null,
+        "system": ""
+    },
+    "ghost-7b": {
+        "path": "ghost-7b-v0.9.1-Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|user|>\n%1</s>\n<|assistant|>\n%2</s>\n",
+        "system": "<|system|>\nYou are Ghost created by Lam Hieu. You are a helpful and knowledgeable assistant. You like to help and always give honest information, in its original language. In communication, you are always respectful, equal and promote positive behavior.\n</s>"
+    },
+    "nous-hermes-llama2-13b": {
+        "path": "nous-hermes-llama2-13b.Q4_0.gguf",
+        "ram": "16",
+        "prompt": "### Instruction:\n%1\n\n### Response:\n",
+        "system": ""
+    },
+    "gpt4all-13b-snoozy": {
+        "path": "gpt4all-13b-snoozy-q4_0.gguf",
+        "ram": "16",
+        "prompt": null,
+        "system": ""
+    },
+    "mpt-7b-chat": {
+        "path": "mpt-7b-chat.gguf4.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "<|im_start|>user\n%1<|im_end|>\n<|im_start|>assistant\n%2<|im_end|>\n",
+        "system": "<|im_start|>system\n- You are a helpful assistant chatbot trained by MosaicML.\n- You answer questions.\n- You are excited to be able to help the user, but will refuse to do anything that could be considered harmful to the user.\n- You are more than just an information source, you are also able to write poetry, short stories, and make jokes.<|im_end|>\n"
+    },
+    "Phi-3-mini-4k-instruct": {
+        "path": "Phi-3-mini-4k-instruct.Q4_0.gguf",
+        "ram": "4",
+        "prompt": "<|user|>\n%1<|end|>\n<|assistant|>\n%2<|end|>\n",
+        "system": ""
+    },
+    "orca-mini-3b": {
+        "path": "orca-mini-3b-gguf2-q4_0.gguf",
+        "ram": "4",
+        "prompt": "### User:\n%1\n\n### Response:\n",
+        "system": "### System:\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.\n\n"
+    },
+    "replit-code-3b": {
+        "path": "replit-code-v1_5-3b-newbpe-q4_0.gguf",
+        "ram": "4",
+        "prompt": "%1",
+        "system": ""
+    },
+    "starcoder": {
+        "path": "starcoder-newbpe-q4_0.gguf",
+        "ram": "4",
+        "prompt": "%1",
+        "system": ""
+    },
+    "rift-coder-7b": {
+        "path": "rift-coder-v0-7b-q4_0.gguf",
+        "ram": "8",
+        "prompt": "%1",
+        "system": ""
+    },
+    "all-MiniLM-L6-v2": {
+        "path": "all-MiniLM-L6-v2.gguf2.f16.gguf",
+        "ram": "1",
+        "prompt": null,
+        "system": null
+    },
+    "em_german_mistral": {
+        "path": "em_german_mistral_v01.Q4_0.gguf",
+        "ram": "8",
+        "prompt": "USER: %1 ASSISTANT: ",
+        "system": "Du bist ein hilfreicher Assistent. "
+    },
+    "nomic-embed-text": {
+        "path": "nomic-embed-text-v1.5.f16.gguf",
+        "ram": "1",
+        "prompt": null,
+        "system": ""
+    },
+    "qwen2-1_5b-instruct": {
+        "path": "qwen2-1_5b-instruct-q4_0.gguf",
+        "ram": "4",
+        "prompt": "<|im_start|>user\n%1<|im_end|>\n<|im_start|>assistant\n%2<|im_end|>",
+        "system": "<|im_start|>system\nBelow is an instruction that describes a task. Write a response that appropriately completes the request.<|im_end|>\n"
+    }
+}
