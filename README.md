@@ -40,11 +40,12 @@ start.bat
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/benzitools/Benzi-GPT-Free.git
+   pip install -r requirements.txt
    ```
 2. Run the `start.bat` file for a one-click start.
 3. You can interact with multiple AI models simultaneously in one window.
 
-## 📺 Youtube:
+## 📺 Screenshot (Click the image to watch the video on YouTube):
 - **Lang-Eng:**
 [![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)](https://youtu.be/5O0pvM_CDC4)
 - **Lang-Vi:**
