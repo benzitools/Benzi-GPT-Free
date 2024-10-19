@@ -39,13 +39,15 @@ start.bat
 ## 🛠️ How to Use:
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/Benzi-GPT-Free.git
+   git clone https://github.com/benzitools/Benzi-GPT-Free.git
    ```
 2. Run the `start.bat` file for a one-click start.
 3. You can interact with multiple AI models simultaneously in one window.
 
-## Screenshot:
+## 📷 Screenshot:
+- **Lang-Eng:**
 ![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)
+- **Lang-Vi:**
 ![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)
 
 
@@ -62,7 +64,7 @@ start.bat
 This project is **open-source** and distributed under the MIT License. Feel free to use, modify, and share the code.
 
 ## 📞 Support:
-For any questions, feel free to contact us via [Telegram](https://t.me/Benzi_Tools).
+For any questions, feel free to contact us via [Telegram](https://t.me/Benzi_chat_bot).
 
 ---
 
