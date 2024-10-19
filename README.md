@@ -46,9 +46,9 @@ start.bat
 
 ## 📺 Youtube:
 - **Lang-Eng:**
-![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)](https://youtu.be/5O0pvM_CDC4)
+[![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)](https://youtu.be/5O0pvM_CDC4)
 - **Lang-Vi:**
-![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)](https://youtu.be/5O0pvM_CDC4)
+[![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)](https://youtu.be/5O0pvM_CDC4)
 
 
 ## 🔧 System Requirements:
