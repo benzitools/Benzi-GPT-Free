@@ -44,6 +44,11 @@ start.bat
 2. Run the `start.bat` file for a one-click start.
 3. You can interact with multiple AI models simultaneously in one window.
 
+## Screenshot:
+![Lang-Eng](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Eng.png)
+![Lang-Vi](https://github.com/benzitools/Benzi-GPT-Free/blob/main/screenshot/Lang-Vi.png)
+
+
 ## 🔧 System Requirements:
 - **Operating System**: Windows 10 or higher.
 - **Disk Space**: Requires only 49MB of storage.
