@@ -65,7 +65,7 @@ start.bat
 This project is **open-source** and distributed under the MIT License. Feel free to use, modify, and share the code.
 
 ## 📞 Support:
-For any questions, feel free to contact us via [Telegram](https://t.me/Benzi_chat_bot).
+For any questions, feel free to contact us via [Telegram: @benzitools_support](https://t.me/benzitools_support).
 
 ---
 
